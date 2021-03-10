@@ -1,0 +1,26 @@
+{//post - body
+ 	"title": "LaunchBase",
+	"url" : "https://github.com/Aszurar/nodejsChallenge",
+	"techs" : ["Nodejs", "html", "css" ]
+}
+
+{//subenviremont dev color blue
+    "base_url": "http://localhost:3333"
+}
+
+ {{ _.base_url }}/repositories/
+
+
+ {//put
+    "title": "Desafio React",
+    "url": "https://github.com/Aszurar/nodejsChallenge",
+    "techs": [
+      "Nodejs",
+      "html",
+      "css",
+      "react",
+      "reactjs",
+      "reactnative"
+    ],
+  }
+
