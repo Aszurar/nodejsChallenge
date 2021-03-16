@@ -98,14 +98,14 @@ Nesse desafio nós revisamos os conceitos básicos de NodeJS por meio da contru�
         app.delete("/repositories/:id", (request, response) => {
         const { id } = request.params;
         
-        const index = repositories.findIndex(repository => repository.id == id); //buscando o respositório a ser deletado
+        const index = repositories.findIndex(repository => repository.id == id); 
         
         if (index < 0) {
             return response.status(400).json({
             error: 'Repository not found'})    
         }
 
-        repositories.splice(index, 1); // deletando o repositório
+        repositories.splice(index, 1); 
 
         return response.status(204).json();
         });
