@@ -4,6 +4,11 @@
 
 ___
 
+<div align="center" ><img src="https://media.giphy.com/media/oXU1BRfx6TtiCVc9yj/giphy.gif" width="500"></div>
+
+- [**Link do vídeo completo sobre o projeto**](https://www.youtube.com/watch?v=MPB8h6bh_t4)
+___
+
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
