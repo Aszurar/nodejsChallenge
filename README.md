@@ -152,7 +152,7 @@ ___
 
   - Clonar o projeto:
     ```bash
-     git clone https://github.com/Aszurar/conceptsReactjsChallenge
+     git clone https://github.com/Aszurar/nodejsChallenge.git
     ```
   - É necessário a instalação do yarn de acordo com seu sistema operacional, para isso veja como no site do [Yarn](https://classic.yarnpkg.com/blog/2017/05/12/introducing-yarn/)
  
