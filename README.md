@@ -138,7 +138,7 @@ Esse desafio consiste em revisar os conceitos iniciais de NodeJS para criação 
 
 ___
 ## :seedling: Requisitos Mínimos
-NodeJS e Yarn.
+Node.js, Yarn(ou NPM).
 ___
 ## :rocket: Tecnologias Utilizadas 
 
